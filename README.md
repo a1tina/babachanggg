@@ -1,10 +1,14 @@
-・👋 Hi, I'm Khoi but you can call me Jahy <br>
-・📖 I’m currently learning at University Information Technology - VNU HCMC in Vietnam <br>
-・🍀 Love to learn new things, especially things related to Frontend stacks. <br>
-・☁ How to reach me: <br>
-    ▶ Facebook: https://www.facebook.com/babachanggg/ <br>
-    ▶ Twitter: https://twitter.com/r3d14701 <br>
-    ▶ Email: khoi2809@gmail.com <br>
+<ul>
+    <li>👋 Hi, I'm Khoi but you can call me Jahy </li>
+    <li>📖 I’m currently learning at University Information Technology - VNU HCMC in Vietnam </li>
+    <li>🍀 Love to learn new things, especially things related to Frontend stacks. </li>
+    <li>☁ How to reach me: </li>
+    <ul>
+        <li>▶ Facebook: https://www.facebook.com/babachanggg/ </li>
+        <li>▶ Twitter: https://twitter.com/r3d14701 </li>
+        <li>▶ Email: khoi2809@gmail.com </li>
+    </ul>
+ </ul>
 <!--
 **babachanggg/babachanggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
