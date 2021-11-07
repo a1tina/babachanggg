@@ -4,8 +4,8 @@
     <li>🍀 Love to learn new things, especially things related to Frontend stacks. </li>
     <li>☁ How to reach me: </li>
     <ul>
-        <li>▶ Facebook: https://www.facebook.com/babachanggg/ </li>
-        <li>▶ Twitter: https://twitter.com/r3d14701 </li>
+        <li>▶ Facebook: https://www.facebook.com/a1tina/ </li>
+        <li>▶ Twitter: https://twitter.com/altinaaru/ </li>
         <li>▶ Email: khoi2809@gmail.com </li>
     </ul>
  </ul>
