@@ -1,5 +1,5 @@
 <ul>
-    <li>👋 Hi, I'm Khoi but you can call me Jahy </li>
+    <li>👋 Hi, I'm Khoi but you can call me Altina </li>
     <li>📖 I’m currently learning at University Information Technology - VNU HCMC in Vietnam </li>
     <li>🍀 Love to learn new things, especially things related to Frontend stacks. </li>
     <li>☁ How to reach me: </li>
