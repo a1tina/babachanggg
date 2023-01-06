@@ -6,7 +6,7 @@
     <ul>
         <li>▶ Facebook: https://www.facebook.com/a1tina/ </li>
         <li>▶ Twitter: https://twitter.com/altinaaru/ </li>
-        <li>▶ Email: khoi2809@gmail.com </li>
+        <li>▶ Email:itsmea1tina@gmail.com </li>
     </ul>
  </ul>
 <!--
